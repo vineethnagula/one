@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JITA Shop - Modern E-Commerce</title>
+    <title>ISHA - Shop - Modern E-Commerce</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
     <style>
@@ -786,7 +786,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo">JITA<span>Shop</span></a>
+            <a href="#" class="logo">ISHA<span>Shop</span></a>
             
             <nav id="mainNav">
                 <ul>
@@ -1073,7 +1073,7 @@
         <div class="container">
             <div class="footer-container">
                 <div class="footer-col">
-                    <h3>JITA Shop</h3>
+                    <h3>ISHA Shop</h3>
                     <p>Your one-stop destination for all the latest products in technology, fashion, and lifestyle.</p>
                     <div class="social-links">
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -1121,7 +1121,7 @@
             </div>
             
             <div class="footer-bottom">
-                <p>&copy; 2023 JITAShop. All rights reserved.</p>
+                <p>&copy; 2023 ISHAShop. All rights reserved.</p>
             </div>
         </div>
     </footer>
