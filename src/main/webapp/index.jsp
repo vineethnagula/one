@@ -786,7 +786,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo">ISHA LIFE<span>Shop</span></a>
+            <a href="#" class="logo">ISHA LIFE<span></span></a>
             
             <nav id="mainNav">
                 <ul>
