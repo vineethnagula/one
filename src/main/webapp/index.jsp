@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Isha Life</title>
+    <title>Isha-Life</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
     <style>
@@ -786,7 +786,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo">ISHA LIFE<span></span></a>
+            <a href="#" class="logo">ISHA-LIFE<span></span></a>
             
             <nav id="mainNav">
                 <ul>
@@ -888,7 +888,7 @@
                 <span class="product-badge">New</span>
                 <img src="https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartphone" class="product-img">
                 <div class="product-info">
-                    <h3>iPhone 14 Pro Max</h3>
+                    <h3>iPhone 17 Pro Max</h3>
                     <div class="price">$1299 <span class="old-price">$1,199</span></div>
                     <div class="rating">★★★★★ <span>(128)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
@@ -907,7 +907,7 @@
                 <span class="product-badge">-25%</span>
                 <img src="https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartwatch" class="product-img">
                 <div class="product-info">
-                    <h3>Apple Watch Series 8</h3>
+                    <h3>Apple Watch Series 12</h3>
                     <div class="price">$349 <span class="old-price">$399</span></div>
                     <div class="rating">★★★★★ <span>(214)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
